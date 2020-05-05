@@ -27,6 +27,4 @@ Quando un intent filter è usato con un component dell'aplicazione come un'activ
 
 Exploit:
 
-- `$ adb shell`
-
-- `# am start -n jakhar.aseem.diva/.APICredsActivity -a jakhar.aseem.diva.action.VIEW_CREDS`
+- `$ adb shell am start -n jakhar.aseem.diva/.APICredsActivity -a jakhar.aseem.diva.action.VIEW_CREDS`

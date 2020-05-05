@@ -12,9 +12,7 @@ SharedPreferences salva le coppie chiave-valore in un file (privato o condiviso)
 
 Exploit:
 
-`$ adb shell`
-
-`# cat /data/data/jakhar.aseem.diva/shared_prefs/jakhar.aseem.diva_preferences.xml`
+`$ adb shell cat /data/data/jakhar.aseem.diva/shared_prefs/jakhar.aseem.diva_preferences.xml`
 
 ```
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>

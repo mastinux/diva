@@ -19,7 +19,5 @@ mDB.execSQL("INSERT INTO myuser VALUES ('"+ usr.getText().toString() +"', '"+ pw
 
 Exploit:
 
-- `$ adb shell`
-
-- `# cat /data/user/0/jakhar.aseem.diva/databases/ids2`
+- `$ adb shell cat /data/user/0/jakhar.aseem.diva/databases/ids2`
 

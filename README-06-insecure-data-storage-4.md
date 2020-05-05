@@ -19,9 +19,7 @@ fw.close();
 
 Exploit:
 
-- `$ adb shell`
-
-- `# cat /storage/emulated/0/.uinfo.txt`
+- `$ adb shell cat /storage/emulated/0/.uinfo.txt`
 
 ```
 john:lock

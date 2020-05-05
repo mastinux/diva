@@ -19,11 +19,8 @@ fw.close();
 
 Exploit:
 
-- `$ adb shell`
 
-- `# ls /data/data/jakhar.aseem.diva/`
-
-- `# cat /data/data/jakhar.aseem.diva/uinfo1408388359tmp`
+- `$ adb shell cat /data/data/jakhar.aseem.diva/uinfo1408388359tmp`
 
 ```
 john:lock
